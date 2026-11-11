@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /saju-site/report/
+Disallow: /saju-site/pay/
+Sitemap: https://useht.github.io/saju-site/sitemap.xml
