@@ -1,1 +1,0 @@
-import{r as e}from"./pages.m2P2oKYK.js";import{n as r}from"./newyear.DuDrTHPe.js";import"./birth-form.DnhMx7vD.js";import"./settings.Nd-SLLgi.js";import"./render.CLGisx7y.js";const t=document.querySelector("a.brand").getAttribute("href");e(document.getElementById("ny-result"),{...r},`${t}photos/`);
