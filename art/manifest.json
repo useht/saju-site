@@ -1,0 +1,557 @@
+{
+ "hero": {
+  "alt": "눈 덮인 산맥 위로 떠오른 보름달",
+  "credit": "사진: YunFengQ / Unsplash",
+  "base": "hero/hero",
+  "variants": {
+   "4x5": {
+    "widths": [
+     640,
+     828,
+     1080
+    ],
+    "lqip": "data:image/webp;base64,UklGRl4AAABXRUJQVlA4IFIAAACwAwCdASoQABQAPu1iqU2ppaOiMAgBMB2JZQCw7CBj8+LnjI/YAAD+6PEbSUytRc7ZwnjNXXTZADR+KOCSmnROdPuo3VeTC8Ox7e+XFnYmoAAA"
+   },
+   "16x9": {
+    "widths": [
+     1080,
+     1600
+    ],
+    "lqip": "data:image/webp;base64,UklGRkAAAABXRUJQVlA4IDQAAADwAQCdASoQAAkAA4BaJQBOgCIj93QQaAAA/vDUh0rc7GbKIGWCTs8u+RZ8rXwJpsdA+AAA"
+   },
+   "9x16": {
+    "widths": [
+     720,
+     1080
+    ],
+    "lqip": "data:image/webp;base64,UklGRnYAAABXRUJQVlA4IGoAAABQBACdASoQABwAPu1iqk2ppaQiMAgBMB2JYwCw7CIKE4BZyT+EHEtDfqAAAP7o0e4doPqr+ENjll8BCMl+3OzbcEAFftQ9a3gxbHFb+RD8HW5TYiSCW2SdJ6xV56FRXvxlU9td7zCEhAAA"
+   }
+  },
+  "dominant": "#0E1530"
+ },
+ "heroes": {
+  "moon": {
+   "alt": "눈 덮인 산맥 위로 떠오른 보름달",
+   "credit": "사진: YunFengQ / Unsplash",
+   "base": "hero/moon",
+   "variants": {
+    "4x5": {
+     "widths": [
+      640,
+      828,
+      1080
+     ],
+     "lqip": "data:image/webp;base64,UklGRl4AAABXRUJQVlA4IFIAAACwAwCdASoQABQAPu1iqU2ppaOiMAgBMB2JZQCw7CBj8+LnjI/YAAD+6PEbSUytRc7ZwnjNXXTZADR+KOCSmnROdPuo3VeTC8Ox7e+XFnYmoAAA"
+    },
+    "16x9": {
+     "widths": [
+      1080,
+      1600
+     ],
+     "lqip": "data:image/webp;base64,UklGRkAAAABXRUJQVlA4IDQAAADwAQCdASoQAAkAA4BaJQBOgCIj93QQaAAA/vDUh0rc7GbKIGWCTs8u+RZ8rXwJpsdA+AAA"
+    },
+    "9x16": {
+     "widths": [
+      720,
+      1080
+     ],
+     "lqip": "data:image/webp;base64,UklGRnYAAABXRUJQVlA4IGoAAABQBACdASoQABwAPu1iqk2ppaQiMAgBMB2JYwCw7CIKE4BZyT+EHEtDfqAAAP7o0e4doPqr+ENjll8BCMl+3OzbcEAFftQ9a3gxbHFb+RD8HW5TYiSCW2SdJ6xV56FRXvxlU9td7zCEhAAA"
+    }
+   },
+   "dominant": "#0E1530"
+  },
+  "palace": {
+   "alt": "해 질 녘 불 밝힌 경복궁과 북악산",
+   "credit": "사진: Jin-Woo Lee / Unsplash",
+   "base": "hero/palace",
+   "variants": {
+    "4x5": {
+     "widths": [
+      640,
+      828,
+      1080
+     ],
+     "lqip": "data:image/webp;base64,UklGRlIAAABXRUJQVlA4IEYAAABwAwCdASoQABQAPu1iqU2ppaOiMAgBMB2JZQCdACKS5C/MIAAA/qI4Gkvgs9jjbjgdtiU6lyMUwB4HZE87nNAyxfO2AAAA"
+    },
+    "16x9": {
+     "widths": [
+      1080,
+      1600
+     ],
+     "lqip": "data:image/webp;base64,UklGRjoAAABXRUJQVlA4IC4AAADQAQCdASoQAAkAA4BaJQBOgB6I47LAAAD+9Enb+JMmc7rlj0a9W8MSAToLgAAA"
+    },
+    "9x16": {
+     "widths": [
+      720,
+      1080
+     ],
+     "lqip": "data:image/webp;base64,UklGRmQAAABXRUJQVlA4IFgAAACwAwCdASoQABwAPu1iqk2ppaQiMAgBMB2JYwCdACPtjTThCFVeAAD+ocqtpF9ODT2/CP+WFQ5ben8Pk0xCxJQ+mScues3rF2eYpq+cvoX3zSY0RCpyAMAA"
+    }
+   },
+   "dominant": "#0E1530"
+  },
+  "sunrise": {
+   "alt": "성산일출봉 뒤로 밝아 오는 바다",
+   "credit": "사진: Sung Shin / Unsplash",
+   "base": "hero/sunrise",
+   "variants": {
+    "4x5": {
+     "widths": [
+      640,
+      828,
+      1080
+     ],
+     "lqip": "data:image/webp;base64,UklGRlQAAABXRUJQVlA4IEgAAAAwAwCdASoQABQAPu1iqU2ppaQiMAgBMB2JZwAAUvqc9XrAAPjjfHg1giLfN4SgbKci5uQlWaSjgxZXf6AHf8pXFk/QfDEAAAA="
+    },
+    "16x9": {
+     "widths": [
+      1080,
+      1600
+     ],
+     "lqip": "data:image/webp;base64,UklGRkIAAABXRUJQVlA4IDYAAACwAQCdASoQAAkAA4BaJQBdgCHad6YAAPzYSMwGGA/kZnfjeqk+wzdzGDdV8KTvVxX/EwAAAAA="
+    },
+    "9x16": {
+     "widths": [
+      720,
+      1080
+     ],
+     "lqip": "data:image/webp;base64,UklGRmAAAABXRUJQVlA4IFQAAADwAwCdASoQABwAPu1qrU8ppiQiMAgBMB2JYwC/OGlh+J1zvyq+BPZEAP39JtHMvQGn7DSL2/KeQmaXmBpdH9wjE3mkN9CA0MQ54e6KtUU+WpUAAAA="
+    }
+   },
+   "dominant": "#0E1530"
+  }
+ },
+ "covers": {
+  "ny-core": {
+   "alt": "한라산 구름바다 위로 떠오르는 해",
+   "credit": "사진: 제주영상문화산업진흥원(공공누리 제1유형)",
+   "base": "covers/ny-core",
+   "variants": {
+    "4x5": {
+     "widths": [
+      360,
+      540,
+      720
+     ],
+     "lqip": "data:image/webp;base64,UklGRloAAABXRUJQVlA4IE4AAABQAwCdASoQABQAPu1iqU2ppaOiMAgBMB2JYgC7ACHXHcXugADh/uGJDyH0A3JB7ojZwe9XXU7PpKxY7TF4XG8XwDN8/efyh6zv6BAAAAA="
+    },
+    "16x9": {
+     "widths": [
+      720,
+      1200
+     ],
+     "lqip": "data:image/webp;base64,UklGRkwAAABXRUJQVlA4IEAAAACwAQCdASoQAAkAA4BaJQBOgCHTC0O4AM149mUlo/aa04z3ut2PQ8r3bpbgUwn+GIGUWHi9E/MijCLfNjy5wAAA"
+    }
+   },
+   "share": {
+    "card": "share/ny-core-4x5-1080.jpg",
+    "og": "share/ny-core-1200x630.jpg"
+   }
+  },
+  "ny-full": {
+   "alt": "노을 진 눈산 위로 떠오른 보름달",
+   "credit": "사진: Mateusz Klein / Unsplash",
+   "base": "covers/ny-full",
+   "variants": {
+    "4x5": {
+     "widths": [
+      360,
+      540,
+      720
+     ],
+     "lqip": "data:image/webp;base64,UklGRmAAAABXRUJQVlA4IFQAAABwAwCdASoQABQAPu1iqU2ppaOiMAgBMB2JZQC06B9iaNJJh4AA/qIcUMg6sLIzP9sHSgOUfol+bkbbdyT2RdEKJL2JayS3r3uhwKBPW+7yjA0AAAA="
+    },
+    "16x9": {
+     "widths": [
+      720,
+      1200
+     ],
+     "lqip": "data:image/webp;base64,UklGRkIAAABXRUJQVlA4IDYAAACwAQCdASoQAAkAA4BaJQBOgB9h1f0AAP7cleOSM6Es2zrPjt6mhm8pjVJihlPFyKwJKeMAAAA="
+    }
+   },
+   "share": {
+    "card": "share/ny-full-4x5-1080.jpg",
+    "og": "share/ny-full-1200x630.jpg"
+   }
+  },
+  "ny-pair": {
+   "alt": "눈밭에서 나란히 우는 두루미 한 쌍",
+   "credit": "사진: paul milley / Unsplash",
+   "base": "covers/ny-pair",
+   "variants": {
+    "4x5": {
+     "widths": [
+      360,
+      540,
+      720
+     ],
+     "lqip": "data:image/webp;base64,UklGRm4AAABXRUJQVlA4IGIAAADQAwCdASoQABQAPu1iqU2ppaOiMAgBMB2JZQCdABTBnaFcTgDrxAAA/tBvzt9SfK56NlqbyznKPfbcIooucWfmd2eLKiIpZrTLmcZOgiK6ppUDeptPiEkTXHzk9biMM6wAAA=="
+    },
+    "16x9": {
+     "widths": [
+      720,
+      1200
+     ],
+     "lqip": "data:image/webp;base64,UklGRkgAAABXRUJQVlA4IDwAAADQAQCdASoQAAkAA4BaJQBOgCHcVj/mAAD9nXybiCLNaOu9A//Cqd/rhqhPPkWRXgX1utjwrEy6ToLgAAA="
+    }
+   },
+   "share": {
+    "card": "share/ny-pair-4x5-1080.jpg",
+    "og": "share/ny-pair-1200x630.jpg"
+   }
+  },
+  "life": {
+   "alt": "산 위로 흐르는 은하수",
+   "credit": "사진: Nathan Anderson / Unsplash",
+   "base": "covers/life",
+   "variants": {
+    "4x5": {
+     "widths": [
+      360,
+      540,
+      720
+     ],
+     "lqip": "data:image/webp;base64,UklGRkYAAABXRUJQVlA4IDoAAADwAgCdASoQABQAPu1iqU2ppaOiMAgBMB2JYwC7AC0kAAD+76c45iiPX4DXNl6PZO9JWOtqNK2t4FgA"
+    },
+    "16x9": {
+     "widths": [
+      720,
+      1200
+     ],
+     "lqip": "data:image/webp;base64,UklGRjQAAABXRUJQVlA4ICgAAABwAQCdASoQAAkAA4BaJTK3IwARYAD+8fKcE7AtbO+vdUxLUSVBNjAA"
+    }
+   },
+   "share": {
+    "card": "share/life-4x5-1080.jpg",
+    "og": "share/life-1200x630.jpg"
+   }
+  },
+  "match": {
+   "alt": "나란히 앉은 원앙 한 쌍",
+   "credit": "사진: David Clode / Unsplash",
+   "base": "covers/match",
+   "variants": {
+    "4x5": {
+     "widths": [
+      360,
+      540,
+      720
+     ],
+     "lqip": "data:image/webp;base64,UklGRmwAAABXRUJQVlA4IGAAAAAQBACdASoQABQAPu1iqU2ppaOiMAgBMB2JYwCAAAcGj/c5YHhjTcUoAAD+JJRSqc5UTpJZeWkanGWvZefB2frk6QxhrF9jjUPYiUTLLPfaYO0fgv/O8UoSP1ZNS1IhAAA="
+    },
+    "16x9": {
+     "widths": [
+      720,
+      1200
+     ],
+     "lqip": "data:image/webp;base64,UklGRkwAAABXRUJQVlA4IEAAAACQAQCdASoQAAkAA4BaJQBdgBrXzAAA/qF2Rr7sT9dqEQEesn+B2d7ae0ZksaWQIuDnc0PnO/dO3NM0TaZhMAAA"
+    }
+   },
+   "share": {
+    "card": "share/match-4x5-1080.jpg",
+    "og": "share/match-1200x630.jpg"
+   }
+  },
+  "love": {
+   "alt": "어둠 속에 핀 붉은 동백 한 송이",
+   "credit": "사진: Annie Spratt / Unsplash",
+   "base": "covers/love",
+   "variants": {
+    "4x5": {
+     "widths": [
+      360,
+      540,
+      720
+     ],
+     "lqip": "data:image/webp;base64,UklGRk4AAABXRUJQVlA4IEIAAABwAwCdASoQABQAPu1iqU2ppaOiMAgBMB2JZQCdACHEyMRQYCgA/vDKAMzutNPC3APMnNzNGZa24X0AGe3tRop8AAA="
+    },
+    "16x9": {
+     "widths": [
+      720,
+      1200
+     ],
+     "lqip": "data:image/webp;base64,UklGRjwAAABXRUJQVlA4IDAAAACwAQCdASoQAAkAA4BaJQBOgB6BPCgAAP7smIUIA0fxalfqO9uB+3vBte9Q8nkrsAA="
+    }
+   },
+   "share": {
+    "card": "share/love-4x5-1080.jpg",
+    "og": "share/love-1200x630.jpg"
+   }
+  },
+  "money": {
+   "alt": "붉은 술에 매달린 금빛 엽전",
+   "credit": "사진: Avishkar Darjee / Unsplash",
+   "base": "covers/money",
+   "variants": {
+    "4x5": {
+     "widths": [
+      360,
+      540,
+      720
+     ],
+     "lqip": "data:image/webp;base64,UklGRmwAAABXRUJQVlA4IGAAAACQAwCdASoQABQAPu1iqU2ppaOiMAgBMB2JYwCdABu15R7UBkgAAP7uoZzR54LomWZ6yvb/JnlIoalcstCejUNdQHgdZV8U46GWhfSD5oBn7IPvG0R3K45Idu+3IPVQAAA="
+    },
+    "16x9": {
+     "widths": [
+      720,
+      1200
+     ],
+     "lqip": "data:image/webp;base64,UklGRlgAAABXRUJQVlA4IEwAAACwAQCdASoQAAkAA4BaJQBOgBjqcWZgAP70tK8teI14hc8qC/oZpcMXoT3IBjVkPnAuBLBO7/mv5zY8O+WqDq+W5J4rhTA+ONQyhVAA"
+    }
+   },
+   "share": {
+    "card": "share/money-4x5-1080.jpg",
+    "og": "share/money-1200x630.jpg"
+   }
+  },
+  "career": {
+   "alt": "눈 덮인 산으로 곧게 뻗은 길",
+   "credit": "사진: Mads Schmidt Rasmussen / Unsplash",
+   "base": "covers/career",
+   "variants": {
+    "4x5": {
+     "widths": [
+      360,
+      540,
+      720
+     ],
+     "lqip": "data:image/webp;base64,UklGRkoAAABXRUJQVlA4ID4AAABwAwCdASoQABQAPu1iqU2ppaOiMAgBMB2JYwAAW/ClZIfeugAA9iu0j29C+/zIsoJrDMvVZH7ZUFqDqqSAAA=="
+    },
+    "16x9": {
+     "widths": [
+      720,
+      1200
+     ],
+     "lqip": "data:image/webp;base64,UklGRkYAAABXRUJQVlA4IDoAAADwAQCdASoQAAkAA4BaJQBOgCL3IuSmZAAA4dlKC+mdLVHdu59Wyop4MtU/TLt/hB9KiQGIAskWJQAA"
+    }
+   },
+   "share": {
+    "card": "share/career-4x5-1080.jpg",
+    "og": "share/career-1200x630.jpg"
+   }
+  },
+  "child": {
+   "alt": "어두운 흙에서 돋아난 새싹",
+   "credit": "사진: KC Shum / Unsplash",
+   "base": "covers/child",
+   "variants": {
+    "4x5": {
+     "widths": [
+      360,
+      540,
+      720
+     ],
+     "lqip": "data:image/webp;base64,UklGRlIAAABXRUJQVlA4IEYAAABQAwCdASoQABQAPu1iqU2ppaQiMAgBMB2JZQC06CHfiSE8AAD+8Ly09zIryIGWKA9BNFzG0Fbb8rIiMKq4hZc5FgugAAAA"
+    },
+    "16x9": {
+     "widths": [
+      720,
+      1200
+     ],
+     "lqip": "data:image/webp;base64,UklGRkIAAABXRUJQVlA4IDYAAACQAQCdASoQAAkAA4BaJQBOgCFP5kAA/vd5edg11hMaKRgP2Cpy3yJAW14whPu9rXvuPcBSWAA="
+    }
+   },
+   "share": {
+    "card": "share/child-4x5-1080.jpg",
+    "og": "share/child-1200x630.jpg"
+   }
+  },
+  "bundle-life-ny": {
+   "alt": "보름달 아래 불 밝힌 누각",
+   "credit": "사진: Seongho Jang / Unsplash",
+   "base": "covers/bundle-life-ny",
+   "variants": {
+    "4x5": {
+     "widths": [
+      360,
+      540,
+      720
+     ],
+     "lqip": "data:image/webp;base64,UklGRlwAAABXRUJQVlA4IFAAAABwAwCdASoQABQAPu1iqU2ppaOiMAgBMB2JZQC/OCHfRbrtMAAA/vC8vxvjHvkhBmPf0EEg8wZtExTgHSwleLE7cQwR2Om6tQCG6/v0CgAAAA=="
+    },
+    "16x9": {
+     "widths": [
+      720,
+      1200
+     ],
+     "lqip": "data:image/webp;base64,UklGRkYAAABXRUJQVlA4IDoAAADQAQCdASoQAAkAA4BaJQBdgCG7/HoogAD+93iC/L4E/4FShDf/id1IIalpM+tYeXyTJWYMWDbY1gAA"
+    }
+   },
+   "share": {
+    "card": "share/bundle-life-ny-4x5-1080.jpg",
+    "og": "share/bundle-life-ny-1200x630.jpg"
+   }
+  },
+  "tojeong": {
+   "alt": "옛 글씨가 적힌 종이 위의 붓과 붓받침",
+   "credit": "사진: 五玄土 ORIENTO / Unsplash",
+   "base": "covers/tojeong",
+   "variants": {
+    "4x5": {
+     "widths": [
+      360,
+      540,
+      720
+     ],
+     "lqip": "data:image/webp;base64,UklGRnAAAABXRUJQVlA4IGQAAADQAwCdASoQABQAPu1iqU2ppaOiMAgBMB2JYwC06CFJguEmXAjneoAA/NdRmIZ/TnOuIFSjJaDZhqlmVIsMq2dp6AnYi6+EycJWk9XN1ESiqq70b6LXxHArcOQXbi+m6897LwAA"
+    },
+    "16x9": {
+     "widths": [
+      720,
+      1200
+     ],
+     "lqip": "data:image/webp;base64,UklGRk4AAABXRUJQVlA4IEIAAAAQAgCdASoQAAkAA4BaJQBWACHu15+ppbAAAM3tC8Fd8fL5NIxFJoEt/+vVtitPoF1UEIHz/zyfOFHfQL2xsx4gAAA="
+    }
+   },
+   "share": {
+    "card": "share/tojeong-4x5-1080.jpg",
+    "og": "share/tojeong-1200x630.jpg"
+   }
+  },
+  "tarot-year": {
+   "alt": "구름 사이 보름달",
+   "credit": "사진: Aron Visuals / Unsplash",
+   "base": "covers/tarot-year",
+   "variants": {
+    "4x5": {
+     "widths": [
+      360,
+      540,
+      720
+     ],
+     "lqip": "data:image/webp;base64,UklGRlwAAABXRUJQVlA4IFAAAAAQBACdASoQABQAPu1iqU2ppaOiMAgBMB2JYgCdMoR3ACnHxq7Jv7RfgAD+8LwCbvBeIv5jd3o0SJoQapwRKinXhzwpClXReAIxy0Pl2AAAAA=="
+    },
+    "16x9": {
+     "widths": [
+      720,
+      1200
+     ],
+     "lqip": "data:image/webp;base64,UklGRkgAAABXRUJQVlA4IDwAAAAQAgCdASoQAAkAA4BaJZACdAD7j1YFZasAAP72k4uGoLBRPzOfIyuz/bVMRiYVPZ+hfakMyrFPGfzIAAA="
+    }
+   },
+   "share": {
+    "card": "share/tarot-year-4x5-1080.jpg",
+    "og": "share/tarot-year-1200x630.jpg"
+   }
+  },
+  "tarot-love": {
+   "alt": "두 손으로 감싼 등잔불",
+   "credit": "사진: Prateek Gautam / Unsplash",
+   "base": "covers/tarot-love",
+   "variants": {
+    "4x5": {
+     "widths": [
+      360,
+      540,
+      720
+     ],
+     "lqip": "data:image/webp;base64,UklGRlwAAABXRUJQVlA4IFAAAABwAwCdASoQABQAPu1iqU2ppaOiMAgBMB2JZQC06CHfj5goU2AA/vC91CxR7J6m7dP4B9aRW7DfjHBn/Y4GOW1VDIc1ETepJFoqCthcDgAAAA=="
+    },
+    "16x9": {
+     "widths": [
+      720,
+      1200
+     ],
+     "lqip": "data:image/webp;base64,UklGRkAAAABXRUJQVlA4IDQAAADQAQCdASoQAAkAA4BaJQBOgCHgWU92AAD+9pItZ5sh28TSZe+UfJOaMtVNhthvLK8RqRwA"
+    }
+   },
+   "share": {
+    "card": "share/tarot-love-4x5-1080.jpg",
+    "og": "share/tarot-love-1200x630.jpg"
+   }
+  },
+  "name": {
+   "alt": "붓으로 한자를 쓰는 손",
+   "credit": "사진: Niketh Vellanki / Unsplash",
+   "base": "covers/name",
+   "variants": {
+    "4x5": {
+     "widths": [
+      360,
+      540,
+      720
+     ],
+     "lqip": "data:image/webp;base64,UklGRngAAABXRUJQVlA4IGwAAADwAwCdASoQABQAPu1iqU2ppaOiMAgBMB2JZwC7ACIHQ4T2Mh0CbcmAAP7bt8eGEjvmBCSLD8OSo6cDubbKpgC3J7pUuweKsXoyyqjfs4SemGt4XKjMEaOQAb85DbTgKtpWbL7qXkxGuT9EYAA="
+    },
+    "16x9": {
+     "widths": [
+      720,
+      1200
+     ],
+     "lqip": "data:image/webp;base64,UklGRk4AAABXRUJQVlA4IEIAAABwAQCdASoQAAkAA4BaJQBOgApQAAD+72Lpe4Pw8JNxlAZEha0HFvdYC2nhKTqtueWPLUNvzuJRIg1Vxwp9IZDO+AA="
+    }
+   },
+   "share": {
+    "card": "share/name-4x5-1080.jpg",
+    "og": "share/name-1200x630.jpg"
+   }
+  }
+ },
+ "marks": {
+  "tti": [
+   "rat",
+   "ox",
+   "tiger",
+   "rabbit",
+   "dragon",
+   "snake",
+   "horse",
+   "sheep",
+   "monkey",
+   "rooster",
+   "dog",
+   "pig"
+  ],
+  "element": [
+   "wood",
+   "fire",
+   "earth",
+   "metal",
+   "water"
+  ],
+  "month": [
+   "01",
+   "02",
+   "03",
+   "04",
+   "05",
+   "06",
+   "07",
+   "08",
+   "09",
+   "10",
+   "11",
+   "12"
+  ],
+  "ornament": [
+   "corner",
+   "divider",
+   "cloud-band",
+   "stars-tile",
+   "moon-0",
+   "moon-1",
+   "moon-2",
+   "moon-3",
+   "moon-4",
+   "moon-5",
+   "moon-6",
+   "moon-7"
+  ],
+  "moonNames": [
+   "new",
+   "waxing-crescent",
+   "first-quarter",
+   "waxing-gibbous",
+   "full",
+   "waning-gibbous",
+   "last-quarter",
+   "waning-crescent"
+  ],
+  "path": {
+   "tti": "marks/tti-{name}.svg",
+   "element": "marks/element-{name}.svg",
+   "month": "marks/month-{name}.svg",
+   "ornament": "ornament/{name}.svg"
+  }
+ }
+}

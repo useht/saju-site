@@ -1,0 +1,67 @@
+{
+ "tti": [
+  "rat",
+  "ox",
+  "tiger",
+  "rabbit",
+  "dragon",
+  "snake",
+  "horse",
+  "sheep",
+  "monkey",
+  "rooster",
+  "dog",
+  "pig"
+ ],
+ "element": [
+  "wood",
+  "fire",
+  "earth",
+  "metal",
+  "water"
+ ],
+ "month": [
+  "01",
+  "02",
+  "03",
+  "04",
+  "05",
+  "06",
+  "07",
+  "08",
+  "09",
+  "10",
+  "11",
+  "12"
+ ],
+ "ornament": [
+  "corner",
+  "divider",
+  "cloud-band",
+  "stars-tile",
+  "moon-0",
+  "moon-1",
+  "moon-2",
+  "moon-3",
+  "moon-4",
+  "moon-5",
+  "moon-6",
+  "moon-7"
+ ],
+ "moonNames": [
+  "new",
+  "waxing-crescent",
+  "first-quarter",
+  "waxing-gibbous",
+  "full",
+  "waning-gibbous",
+  "last-quarter",
+  "waning-crescent"
+ ],
+ "path": {
+  "tti": "marks/tti-{name}.svg",
+  "element": "marks/element-{name}.svg",
+  "month": "marks/month-{name}.svg",
+  "ornament": "ornament/{name}.svg"
+ }
+}
