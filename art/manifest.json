@@ -1,130 +1,9 @@
 {
- "hero": {
-  "alt": "눈 덮인 산맥 위로 떠오른 보름달",
-  "credit": "사진: YunFengQ / Unsplash",
-  "base": "hero/hero",
-  "variants": {
-   "4x5": {
-    "widths": [
-     640,
-     828,
-     1080
-    ],
-    "lqip": "data:image/webp;base64,UklGRl4AAABXRUJQVlA4IFIAAACwAwCdASoQABQAPu1iqU2ppaOiMAgBMB2JZQCw7CBj8+LnjI/YAAD+6PEbSUytRc7ZwnjNXXTZADR+KOCSmnROdPuo3VeTC8Ox7e+XFnYmoAAA"
-   },
-   "16x9": {
-    "widths": [
-     1080,
-     1600
-    ],
-    "lqip": "data:image/webp;base64,UklGRkAAAABXRUJQVlA4IDQAAADwAQCdASoQAAkAA4BaJQBOgCIj93QQaAAA/vDUh0rc7GbKIGWCTs8u+RZ8rXwJpsdA+AAA"
-   },
-   "9x16": {
-    "widths": [
-     720,
-     1080
-    ],
-    "lqip": "data:image/webp;base64,UklGRnYAAABXRUJQVlA4IGoAAABQBACdASoQABwAPu1iqk2ppaQiMAgBMB2JYwCw7CIKE4BZyT+EHEtDfqAAAP7o0e4doPqr+ENjll8BCMl+3OzbcEAFftQ9a3gxbHFb+RD8HW5TYiSCW2SdJ6xV56FRXvxlU9td7zCEhAAA"
-   }
-  },
-  "dominant": "#0E1530"
- },
- "heroes": {
-  "moon": {
-   "alt": "눈 덮인 산맥 위로 떠오른 보름달",
-   "credit": "사진: YunFengQ / Unsplash",
-   "base": "hero/moon",
-   "variants": {
-    "4x5": {
-     "widths": [
-      640,
-      828,
-      1080
-     ],
-     "lqip": "data:image/webp;base64,UklGRl4AAABXRUJQVlA4IFIAAACwAwCdASoQABQAPu1iqU2ppaOiMAgBMB2JZQCw7CBj8+LnjI/YAAD+6PEbSUytRc7ZwnjNXXTZADR+KOCSmnROdPuo3VeTC8Ox7e+XFnYmoAAA"
-    },
-    "16x9": {
-     "widths": [
-      1080,
-      1600
-     ],
-     "lqip": "data:image/webp;base64,UklGRkAAAABXRUJQVlA4IDQAAADwAQCdASoQAAkAA4BaJQBOgCIj93QQaAAA/vDUh0rc7GbKIGWCTs8u+RZ8rXwJpsdA+AAA"
-    },
-    "9x16": {
-     "widths": [
-      720,
-      1080
-     ],
-     "lqip": "data:image/webp;base64,UklGRnYAAABXRUJQVlA4IGoAAABQBACdASoQABwAPu1iqk2ppaQiMAgBMB2JYwCw7CIKE4BZyT+EHEtDfqAAAP7o0e4doPqr+ENjll8BCMl+3OzbcEAFftQ9a3gxbHFb+RD8HW5TYiSCW2SdJ6xV56FRXvxlU9td7zCEhAAA"
-    }
-   },
-   "dominant": "#0E1530"
-  },
-  "palace": {
-   "alt": "해 질 녘 불 밝힌 경복궁과 북악산",
-   "credit": "사진: Jin-Woo Lee / Unsplash",
-   "base": "hero/palace",
-   "variants": {
-    "4x5": {
-     "widths": [
-      640,
-      828,
-      1080
-     ],
-     "lqip": "data:image/webp;base64,UklGRlIAAABXRUJQVlA4IEYAAABwAwCdASoQABQAPu1iqU2ppaOiMAgBMB2JZQCdACKS5C/MIAAA/qI4Gkvgs9jjbjgdtiU6lyMUwB4HZE87nNAyxfO2AAAA"
-    },
-    "16x9": {
-     "widths": [
-      1080,
-      1600
-     ],
-     "lqip": "data:image/webp;base64,UklGRjoAAABXRUJQVlA4IC4AAADQAQCdASoQAAkAA4BaJQBOgB6I47LAAAD+9Enb+JMmc7rlj0a9W8MSAToLgAAA"
-    },
-    "9x16": {
-     "widths": [
-      720,
-      1080
-     ],
-     "lqip": "data:image/webp;base64,UklGRmQAAABXRUJQVlA4IFgAAACwAwCdASoQABwAPu1iqk2ppaQiMAgBMB2JYwCdACPtjTThCFVeAAD+ocqtpF9ODT2/CP+WFQ5ben8Pk0xCxJQ+mScues3rF2eYpq+cvoX3zSY0RCpyAMAA"
-    }
-   },
-   "dominant": "#0E1530"
-  },
-  "sunrise": {
-   "alt": "성산일출봉 뒤로 밝아 오는 바다",
-   "credit": "사진: Sung Shin / Unsplash",
-   "base": "hero/sunrise",
-   "variants": {
-    "4x5": {
-     "widths": [
-      640,
-      828,
-      1080
-     ],
-     "lqip": "data:image/webp;base64,UklGRlQAAABXRUJQVlA4IEgAAAAwAwCdASoQABQAPu1iqU2ppaQiMAgBMB2JZwAAUvqc9XrAAPjjfHg1giLfN4SgbKci5uQlWaSjgxZXf6AHf8pXFk/QfDEAAAA="
-    },
-    "16x9": {
-     "widths": [
-      1080,
-      1600
-     ],
-     "lqip": "data:image/webp;base64,UklGRkIAAABXRUJQVlA4IDYAAACwAQCdASoQAAkAA4BaJQBdgCHad6YAAPzYSMwGGA/kZnfjeqk+wzdzGDdV8KTvVxX/EwAAAAA="
-    },
-    "9x16": {
-     "widths": [
-      720,
-      1080
-     ],
-     "lqip": "data:image/webp;base64,UklGRmAAAABXRUJQVlA4IFQAAADwAwCdASoQABwAPu1qrU8ppiQiMAgBMB2JYwC/OGlh+J1zvyq+BPZEAP39JtHMvQGn7DSL2/KeQmaXmBpdH9wjE3mkN9CA0MQ54e6KtUU+WpUAAAA="
-    }
-   },
-   "dominant": "#0E1530"
-  }
- },
  "covers": {
   "ny-core": {
-   "alt": "한라산 구름바다 위로 떠오르는 해",
-   "credit": "사진: 제주영상문화산업진흥원(공공누리 제1유형)",
+   "alt": "「일월오봉도」의 붉은 해와 봉우리",
+   "credit": "작자 미상, 「일월오봉도」, 조선 — 공개 영역(위키미디어 공용)",
+   "source": "https://commons.wikimedia.org/wiki/File:Irworobongdo.jpg",
    "base": "covers/ny-core",
    "variants": {
     "4x5": {
@@ -133,14 +12,14 @@
       540,
       720
      ],
-     "lqip": "data:image/webp;base64,UklGRloAAABXRUJQVlA4IE4AAABQAwCdASoQABQAPu1iqU2ppaOiMAgBMB2JYgC7ACHXHcXugADh/uGJDyH0A3JB7ojZwe9XXU7PpKxY7TF4XG8XwDN8/efyh6zv6BAAAAA="
+     "lqip": "data:image/webp;base64,UklGRkoAAABXRUJQVlA4ID4AAABQAwCdASoQABQAPu1iqU2ppaQiMAgBMB2JZwAAW+o6dZT0QAD+7DV90iy8BvY6e8ZvGhJ5CIVzTapofAAAAA=="
     },
     "16x9": {
      "widths": [
       720,
       1200
      ],
-     "lqip": "data:image/webp;base64,UklGRkwAAABXRUJQVlA4IEAAAACwAQCdASoQAAkAA4BaJQBOgCHTC0O4AM149mUlo/aa04z3ut2PQ8r3bpbgUwn+GIGUWHi9E/MijCLfNjy5wAAA"
+     "lqip": "data:image/webp;base64,UklGRjoAAABXRUJQVlA4IC4AAACwAQCdASoQAAkAA4BaJaQAAtzDWNDAAP7smGYTV/tgXvrX9+C21iz0IFFpAAAA"
     }
    },
    "share": {
@@ -149,8 +28,9 @@
    }
   },
   "ny-full": {
-   "alt": "노을 진 눈산 위로 떠오른 보름달",
-   "credit": "사진: Mateusz Klein / Unsplash",
+   "alt": "「일월오봉도」의 흰 달과 봉우리",
+   "credit": "작자 미상, 「일월오봉도」, 조선 — 공개 영역(위키미디어 공용)",
+   "source": "https://commons.wikimedia.org/wiki/File:Irworobongdo.jpg",
    "base": "covers/ny-full",
    "variants": {
     "4x5": {
@@ -159,14 +39,14 @@
       540,
       720
      ],
-     "lqip": "data:image/webp;base64,UklGRmAAAABXRUJQVlA4IFQAAABwAwCdASoQABQAPu1iqU2ppaOiMAgBMB2JZQC06B9iaNJJh4AA/qIcUMg6sLIzP9sHSgOUfol+bkbbdyT2RdEKJL2JayS3r3uhwKBPW+7yjA0AAAA="
+     "lqip": "data:image/webp;base64,UklGRlYAAABXRUJQVlA4IEoAAABQAwCdASoQABQAPu1iqU2ppaQiMAgBMB2JZwAAR9gMqLiLjAD+6fVqdXp78RPfrfb3ZKs3tdZOpLr1NhDk6avH3Z88Fh0Km5kAAA=="
     },
     "16x9": {
      "widths": [
       720,
       1200
      ],
-     "lqip": "data:image/webp;base64,UklGRkIAAABXRUJQVlA4IDYAAACwAQCdASoQAAkAA4BaJQBOgB9h1f0AAP7cleOSM6Es2zrPjt6mhm8pjVJihlPFyKwJKeMAAAA="
+     "lqip": "data:image/webp;base64,UklGRjoAAABXRUJQVlA4IC4AAADQAQCdASoQAAkAA4BaJaQAAudm8EsAAAD+8YHdD35g/2ly3+PiJMBVqXN6YAAA"
     }
    },
    "share": {
@@ -175,8 +55,9 @@
    }
   },
   "ny-pair": {
-   "alt": "눈밭에서 나란히 우는 두루미 한 쌍",
-   "credit": "사진: paul milley / Unsplash",
+   "alt": "「십장생도」 — 소나무 위 하늘을 나는 학",
+   "credit": "작자 미상, 「십장생도 병풍」(창덕6447), 조선, 국립고궁박물관 — 공개 영역(위키미디어 공용)",
+   "source": "https://commons.wikimedia.org/wiki/File:%EC%B0%BD%EB%8D%956447_%EC%8B%AD%EC%9E%A5%EC%83%9D%EB%8F%84_%EB%B3%91%ED%92%8D.jpg",
    "base": "covers/ny-pair",
    "variants": {
     "4x5": {
@@ -185,14 +66,14 @@
       540,
       720
      ],
-     "lqip": "data:image/webp;base64,UklGRm4AAABXRUJQVlA4IGIAAADQAwCdASoQABQAPu1iqU2ppaOiMAgBMB2JZQCdABTBnaFcTgDrxAAA/tBvzt9SfK56NlqbyznKPfbcIooucWfmd2eLKiIpZrTLmcZOgiK6ppUDeptPiEkTXHzk9biMM6wAAA=="
+     "lqip": "data:image/webp;base64,UklGRlwAAABXRUJQVlA4IFAAAABwAwCdASoQABQAPu1iqU2ppaOiMAgBMB2JZQAAWqFQ1J5mbCYA/njx+43qUSsi+LEQmz6YWCS69TisS1U4J50kXHcsUTernwAFudq84csAAA=="
     },
     "16x9": {
      "widths": [
       720,
       1200
      ],
-     "lqip": "data:image/webp;base64,UklGRkgAAABXRUJQVlA4IDwAAADQAQCdASoQAAkAA4BaJQBOgCHcVj/mAAD9nXybiCLNaOu9A//Cqd/rhqhPPkWRXgX1utjwrEy6ToLgAAA="
+     "lqip": "data:image/webp;base64,UklGRkYAAABXRUJQVlA4IDoAAADQAQCdASoQAAkAA4BaJYwCw7DPE10xgAD+zcYYEKEpLdJsn/n7rHsghzcfPxuleMhQot2pgs+FQAAA"
     }
    },
    "share": {
@@ -201,8 +82,9 @@
    }
   },
   "life": {
-   "alt": "산 위로 흐르는 은하수",
-   "credit": "사진: Nathan Anderson / Unsplash",
+   "alt": "이인문 「강산무진도」 — 끝없이 이어지는 산과 강",
+   "credit": "이인문, 「강산무진도」, 조선, 국립중앙박물관 — 공개 영역(위키미디어 공용)",
+   "source": "https://commons.wikimedia.org/wiki/File:Gangsanmujindo.jpg",
    "base": "covers/life",
    "variants": {
     "4x5": {
@@ -211,14 +93,14 @@
       540,
       720
      ],
-     "lqip": "data:image/webp;base64,UklGRkYAAABXRUJQVlA4IDoAAADwAgCdASoQABQAPu1iqU2ppaOiMAgBMB2JYwC7AC0kAAD+76c45iiPX4DXNl6PZO9JWOtqNK2t4FgA"
+     "lqip": "data:image/webp;base64,UklGRloAAABXRUJQVlA4IE4AAABwAwCdASoQABQAPu1iqU2ppaOiMAgBMB2JYwC7AA88nyaoOoAA/UUJvUztPU8+4NklPPAJcZRBvhiC3yHw5PzQkuF9sBagXjIqAQ4AAAA="
     },
     "16x9": {
      "widths": [
       720,
       1200
      ],
-     "lqip": "data:image/webp;base64,UklGRjQAAABXRUJQVlA4ICgAAABwAQCdASoQAAkAA4BaJTK3IwARYAD+8fKcE7AtbO+vdUxLUSVBNjAA"
+     "lqip": "data:image/webp;base64,UklGRj4AAABXRUJQVlA4IDIAAACwAQCdASoQAAkAA4BaJQBOgBneK0gAAP6oeQ+CvaUAiwg0s3JsJVrZRjBsjyPV1QAAAA=="
     }
    },
    "share": {
@@ -227,8 +109,9 @@
    }
   },
   "match": {
-   "alt": "나란히 앉은 원앙 한 쌍",
-   "credit": "사진: David Clode / Unsplash",
+   "alt": "김홍도 「신행」 — 혼례 날 신부의 가마 행렬",
+   "credit": "김홍도, 『단원 풍속도첩』 「신행」, 조선, 국립중앙박물관 — 공개 영역(위키미디어 공용)",
+   "source": "https://commons.wikimedia.org/wiki/File:Danwon_Sinhaeng.jpg",
    "base": "covers/match",
    "variants": {
     "4x5": {
@@ -237,14 +120,14 @@
       540,
       720
      ],
-     "lqip": "data:image/webp;base64,UklGRmwAAABXRUJQVlA4IGAAAAAQBACdASoQABQAPu1iqU2ppaOiMAgBMB2JYwCAAAcGj/c5YHhjTcUoAAD+JJRSqc5UTpJZeWkanGWvZefB2frk6QxhrF9jjUPYiUTLLPfaYO0fgv/O8UoSP1ZNS1IhAAA="
+     "lqip": "data:image/webp;base64,UklGRloAAABXRUJQVlA4IE4AAACwAwCdASoQABQAPu1iqU2ppaOiMAgBMB2JZSzAAyQAls83eyJggAD2LBoX2foWv5WpJFBTztvXDKEXSGJbIvUwvNKL8oiFiU8bmD37gAA="
     },
     "16x9": {
      "widths": [
       720,
       1200
      ],
-     "lqip": "data:image/webp;base64,UklGRkwAAABXRUJQVlA4IEAAAACQAQCdASoQAAkAA4BaJQBdgBrXzAAA/qF2Rr7sT9dqEQEesn+B2d7ae0ZksaWQIuDnc0PnO/dO3NM0TaZhMAAA"
+     "lqip": "data:image/webp;base64,UklGRkYAAABXRUJQVlA4IDoAAADQAQCdASoQAAkAA4BaJYwCdAE03SkgAADN0eQsuD3YQjWRVxDtUMx+ZGiWR4D2xD34XgE4cFmcAAAA"
     }
    },
    "share": {
@@ -253,8 +136,9 @@
    }
   },
   "love": {
-   "alt": "어둠 속에 핀 붉은 동백 한 송이",
-   "credit": "사진: Annie Spratt / Unsplash",
+   "alt": "신윤복 「월하정인」 — 눈썹달 아래 담 모퉁이의 두 사람",
+   "credit": "신윤복, 『혜원 전신첩』 「월하정인」, 조선, 간송미술관 — 공개 영역(위키미디어 공용)",
+   "source": "https://commons.wikimedia.org/wiki/File:Hyewon-Wolha.jeongin-3.jpg",
    "base": "covers/love",
    "variants": {
     "4x5": {
@@ -263,14 +147,14 @@
       540,
       720
      ],
-     "lqip": "data:image/webp;base64,UklGRk4AAABXRUJQVlA4IEIAAABwAwCdASoQABQAPu1iqU2ppaOiMAgBMB2JZQCdACHEyMRQYCgA/vDKAMzutNPC3APMnNzNGZa24X0AGe3tRop8AAA="
+     "lqip": "data:image/webp;base64,UklGRlgAAABXRUJQVlA4IEwAAADwAwCdASoQABQAPu1kqU2ppaQiMAgBMB2JZQAAXGBkXRbR3WyZv8gAAPjYrhqmIwbTrFJdzzPWTA2JyCsS3R5iWf6fV+hitGzgAAAA"
     },
     "16x9": {
      "widths": [
       720,
       1200
      ],
-     "lqip": "data:image/webp;base64,UklGRjwAAABXRUJQVlA4IDAAAACwAQCdASoQAAkAA4BaJQBOgB6BPCgAAP7smIUIA0fxalfqO9uB+3vBte9Q8nkrsAA="
+     "lqip": "data:image/webp;base64,UklGRkIAAABXRUJQVlA4IDYAAAAQAgCdASoQAAkAA4BaJZwCdAEf6v8G/BgAAN5Kxz0DRb9gVDJqYcLt80XbNI9LkztiL3aAAAA="
     }
    },
    "share": {
@@ -279,8 +163,9 @@
    }
   },
   "money": {
-   "alt": "붉은 술에 매달린 금빛 엽전",
-   "credit": "사진: Avishkar Darjee / Unsplash",
+   "alt": "김홍도 「장터길」 — 장을 보고 돌아가는 장꾼들",
+   "credit": "김홍도, 『단원 풍속도첩』 「장터길」, 조선, 국립중앙박물관 — 공개 영역(위키미디어 공용)",
+   "source": "https://commons.wikimedia.org/wiki/File:Danwon_Jangteogil.jpg",
    "base": "covers/money",
    "variants": {
     "4x5": {
@@ -289,14 +174,14 @@
       540,
       720
      ],
-     "lqip": "data:image/webp;base64,UklGRmwAAABXRUJQVlA4IGAAAACQAwCdASoQABQAPu1iqU2ppaOiMAgBMB2JYwCdABu15R7UBkgAAP7uoZzR54LomWZ6yvb/JnlIoalcstCejUNdQHgdZV8U46GWhfSD5oBn7IPvG0R3K45Idu+3IPVQAAA="
+     "lqip": "data:image/webp;base64,UklGRlYAAABXRUJQVlA4IEoAAABwAwCdASoQABQAPu1iqU2ppaOiMAgBMB2JZQC7AAhL5CciN7AA+mbZyTS/R3m3VegjPJhXmtSTiGZehS2JJeVDa6PI/FbCzkYAAA=="
     },
     "16x9": {
      "widths": [
       720,
       1200
      ],
-     "lqip": "data:image/webp;base64,UklGRlgAAABXRUJQVlA4IEwAAACwAQCdASoQAAkAA4BaJQBOgBjqcWZgAP70tK8teI14hc8qC/oZpcMXoT3IBjVkPnAuBLBO7/mv5zY8O+WqDq+W5J4rhTA+ONQyhVAA"
+     "lqip": "data:image/webp;base64,UklGRkQAAABXRUJQVlA4IDgAAADQAQCdASoQAAkAA4BaJZQCdAD8DMPSAAD2Qb1gVRuHmw9/bhoYxf3qUCztxR3NfUoiAB/tOwAAAA=="
     }
    },
    "share": {
@@ -305,8 +190,9 @@
    }
   },
   "career": {
-   "alt": "눈 덮인 산으로 곧게 뻗은 길",
-   "credit": "사진: Mads Schmidt Rasmussen / Unsplash",
+   "alt": "김홍도 「대장간」 — 쇠를 두드리는 대장장이들",
+   "credit": "김홍도, 『단원 풍속도첩』 「대장간」, 조선, 국립중앙박물관 — 공개 영역(위키미디어 공용)",
+   "source": "https://commons.wikimedia.org/wiki/File:Danwon_Daejanggan.jpg",
    "base": "covers/career",
    "variants": {
     "4x5": {
@@ -315,14 +201,14 @@
       540,
       720
      ],
-     "lqip": "data:image/webp;base64,UklGRkoAAABXRUJQVlA4ID4AAABwAwCdASoQABQAPu1iqU2ppaOiMAgBMB2JYwAAW/ClZIfeugAA9iu0j29C+/zIsoJrDMvVZH7ZUFqDqqSAAA=="
+     "lqip": "data:image/webp;base64,UklGRlAAAABXRUJQVlA4IEQAAACwAwCdASoQABQAPu1kqU2ppaOiMAgBMB2JYwC7AB44ATkHXIENgAD6Zter7BZ/BtBFlbS6h3FKtuZLhfbP7rJV3wAAAA=="
     },
     "16x9": {
      "widths": [
       720,
       1200
      ],
-     "lqip": "data:image/webp;base64,UklGRkYAAABXRUJQVlA4IDoAAADwAQCdASoQAAkAA4BaJQBOgCL3IuSmZAAA4dlKC+mdLVHdu59Wyop4MtU/TLt/hB9KiQGIAskWJQAA"
+     "lqip": "data:image/webp;base64,UklGRkIAAABXRUJQVlA4IDYAAADwAQCdASoQAAkAA4BaJYwCdADO//tEXAAAyze+QLL+58gt6Y9B377Sgv4rAcSuAW5C9iAAAAA="
     }
    },
    "share": {
@@ -331,8 +217,9 @@
    }
   },
   "child": {
-   "alt": "어두운 흙에서 돋아난 새싹",
-   "credit": "사진: KC Shum / Unsplash",
+   "alt": "김홍도 「서당」 — 훈장 앞에서 훌쩍이는 아이와 웃는 아이들",
+   "credit": "김홍도, 『단원 풍속도첩』 「서당」, 조선, 국립중앙박물관 — 공개 영역(위키미디어 공용)",
+   "source": "https://commons.wikimedia.org/wiki/File:Danwon_Seodang.jpg",
    "base": "covers/child",
    "variants": {
     "4x5": {
@@ -341,14 +228,14 @@
       540,
       720
      ],
-     "lqip": "data:image/webp;base64,UklGRlIAAABXRUJQVlA4IEYAAABQAwCdASoQABQAPu1iqU2ppaQiMAgBMB2JZQC06CHfiSE8AAD+8Ly09zIryIGWKA9BNFzG0Fbb8rIiMKq4hZc5FgugAAAA"
+     "lqip": "data:image/webp;base64,UklGRlIAAABXRUJQVlA4IEYAAABwAwCdASoQABQAPu1iqU2ppaOiMAgBMB2JZQC7AA0DHe49OxgA+mDhVepCwmkTo1u/qu/XhHjUokjnK9fHHa7Gq3EDAAAA"
     },
     "16x9": {
      "widths": [
       720,
       1200
      ],
-     "lqip": "data:image/webp;base64,UklGRkIAAABXRUJQVlA4IDYAAACQAQCdASoQAAkAA4BaJQBOgCFP5kAA/vd5edg11hMaKRgP2Cpy3yJAW14whPu9rXvuPcBSWAA="
+     "lqip": "data:image/webp;base64,UklGRj4AAABXRUJQVlA4IDIAAACwAQCdASoQAAkAA4BaJZQCdACUV9UAAP4jG0Q1YfXm94krwnXbfWR3r0KLzn7TgGpAAA=="
     }
    },
    "share": {
@@ -357,8 +244,9 @@
    }
   },
   "bundle-life-ny": {
-   "alt": "보름달 아래 불 밝힌 누각",
-   "credit": "사진: Seongho Jang / Unsplash",
+   "alt": "정선 「금강전도」 — 일만 이천 봉우리의 금강산",
+   "credit": "정선, 「금강전도」, 조선, 리움미술관 — 공개 영역(위키미디어 공용)",
+   "source": "https://commons.wikimedia.org/wiki/File:Geumgangjeondo.jpg",
    "base": "covers/bundle-life-ny",
    "variants": {
     "4x5": {
@@ -367,14 +255,14 @@
       540,
       720
      ],
-     "lqip": "data:image/webp;base64,UklGRlwAAABXRUJQVlA4IFAAAABwAwCdASoQABQAPu1iqU2ppaOiMAgBMB2JZQC/OCHfRbrtMAAA/vC8vxvjHvkhBmPf0EEg8wZtExTgHSwleLE7cQwR2Om6tQCG6/v0CgAAAA=="
+     "lqip": "data:image/webp;base64,UklGRlIAAABXRUJQVlA4IEYAAAAwAwCdASoQABQAPu1iqU2ppaQiMAgBMB2JZQAARZlT8uRAAP6i6SQT0ZUriz9merqjv4gPpvJLP8eIakSEzJ+R57KCExAA"
     },
     "16x9": {
      "widths": [
       720,
       1200
      ],
-     "lqip": "data:image/webp;base64,UklGRkYAAABXRUJQVlA4IDoAAADQAQCdASoQAAkAA4BaJQBdgCG7/HoogAD+93iC/L4E/4FShDf/id1IIalpM+tYeXyTJWYMWDbY1gAA"
+     "lqip": "data:image/webp;base64,UklGRj4AAABXRUJQVlA4IDIAAACwAQCdASoQAAkAA4BaJZQCdAChe9TAAP7QcA5FLcK9DRbhodumxwCXZ6QvanMsJUAAAA=="
     }
    },
    "share": {
@@ -383,8 +271,9 @@
    }
   },
   "tojeong": {
-   "alt": "옛 글씨가 적힌 종이 위의 붓과 붓받침",
-   "credit": "사진: 五玄土 ORIENTO / Unsplash",
+   "alt": "「책거리」 — 책과 문방구를 쌓은 서가",
+   "credit": "작자 미상, 「책거리」, 조선, 메트로폴리탄 미술관(2005.385) — CC0(위키미디어 공용)",
+   "source": "https://commons.wikimedia.org/wiki/File:Books_and_Scholars'_Possessions_(Chaekgeori)%2C_MET_2005.385.jpg",
    "base": "covers/tojeong",
    "variants": {
     "4x5": {
@@ -393,14 +282,14 @@
       540,
       720
      ],
-     "lqip": "data:image/webp;base64,UklGRnAAAABXRUJQVlA4IGQAAADQAwCdASoQABQAPu1iqU2ppaOiMAgBMB2JYwC06CFJguEmXAjneoAA/NdRmIZ/TnOuIFSjJaDZhqlmVIsMq2dp6AnYi6+EycJWk9XN1ESiqq70b6LXxHArcOQXbi+m6897LwAA"
+     "lqip": "data:image/webp;base64,UklGRloAAABXRUJQVlA4IE4AAACwAwCdASoQABQAPu1iqU2ppaQiMAgBMB2JYwC7ABafRHgVVHklgAD9j8QymBVeNMuanMhI9Zv/+MNU3fll/Gq9Nr/2F1xa52WxwU3qAAA="
     },
     "16x9": {
      "widths": [
       720,
       1200
      ],
-     "lqip": "data:image/webp;base64,UklGRk4AAABXRUJQVlA4IEIAAAAQAgCdASoQAAkAA4BaJQBWACHu15+ppbAAAM3tC8Fd8fL5NIxFJoEt/+vVtitPoF1UEIHz/zyfOFHfQL2xsx4gAAA="
+     "lqip": "data:image/webp;base64,UklGRjwAAABXRUJQVlA4IDAAAADQAQCdASoQAAkAA4BaJYwCdADcEbHXAAD9swP+c3v59ghT6D7K8QSMI3KZ7Pd2AAA="
     }
    },
    "share": {
@@ -409,8 +298,9 @@
    }
   },
   "tarot-year": {
-   "alt": "구름 사이 보름달",
-   "credit": "사진: Aron Visuals / Unsplash",
+   "alt": "「천상열차분야지도」 목판본 — 둥근 하늘의 별자리",
+   "credit": "작자 미상, 「천상열차분야지도」 목판본, 조선, 서울대 규장각 — 공개 영역(위키미디어 공용)",
+   "source": "https://commons.wikimedia.org/wiki/File:Cheonsang-yeolcha-bunya-jido_(woodcut_version).png",
    "base": "covers/tarot-year",
    "variants": {
     "4x5": {
@@ -419,14 +309,14 @@
       540,
       720
      ],
-     "lqip": "data:image/webp;base64,UklGRlwAAABXRUJQVlA4IFAAAAAQBACdASoQABQAPu1iqU2ppaOiMAgBMB2JYgCdMoR3ACnHxq7Jv7RfgAD+8LwCbvBeIv5jd3o0SJoQapwRKinXhzwpClXReAIxy0Pl2AAAAA=="
+     "lqip": "data:image/webp;base64,UklGRkYAAABXRUJQVlA4IDoAAABwAwCdASoQABQAPu1iqU2ppaQiMAgBMB2JZwDImCHfaquKuwAA/u55nh7ZFaabE1xm7mXu+OgBAAAA"
     },
     "16x9": {
      "widths": [
       720,
       1200
      ],
-     "lqip": "data:image/webp;base64,UklGRkgAAABXRUJQVlA4IDwAAAAQAgCdASoQAAkAA4BaJZACdAD7j1YFZasAAP72k4uGoLBRPzOfIyuz/bVMRiYVPZ+hfakMyrFPGfzIAAA="
+     "lqip": "data:image/webp;base64,UklGRjYAAABXRUJQVlA4ICoAAADQAQCdASoQAAkAA4BaJZwAAvqpPGZ2AAD+8zTYH6MTLQc83TcYocy8AAA="
     }
    },
    "share": {
@@ -435,8 +325,9 @@
    }
   },
   "tarot-love": {
-   "alt": "두 손으로 감싼 등잔불",
-   "credit": "사진: Prateek Gautam / Unsplash",
+   "alt": "신윤복 「월야밀회」 — 달밤 담 아래에서 만난 두 사람",
+   "credit": "신윤복, 『혜원 전신첩』 「월야밀회」, 조선, 간송미술관 — 공개 영역(위키미디어 공용)",
+   "source": "https://commons.wikimedia.org/wiki/File:Hyewon-Wolyamilhoe.jpg",
    "base": "covers/tarot-love",
    "variants": {
     "4x5": {
@@ -445,14 +336,14 @@
       540,
       720
      ],
-     "lqip": "data:image/webp;base64,UklGRlwAAABXRUJQVlA4IFAAAABwAwCdASoQABQAPu1iqU2ppaOiMAgBMB2JZQC06CHfj5goU2AA/vC91CxR7J6m7dP4B9aRW7DfjHBn/Y4GOW1VDIc1ETepJFoqCthcDgAAAA=="
+     "lqip": "data:image/webp;base64,UklGRmAAAABXRUJQVlA4IFQAAADQAwCdASoQABQAPu1iqU2ppaOiMAgBMB2JZwC2yBcKsIFVf/R1RIAAypHjVrTl78FJbgaaLTJFUTKTWepjI27BOHN+FxXdfFKmAvzBIhURVrEAAAA="
     },
     "16x9": {
      "widths": [
       720,
       1200
      ],
-     "lqip": "data:image/webp;base64,UklGRkAAAABXRUJQVlA4IDQAAADQAQCdASoQAAkAA4BaJQBOgCHgWU92AAD+9pItZ5sh28TSZe+UfJOaMtVNhthvLK8RqRwA"
+     "lqip": "data:image/webp;base64,UklGRkgAAABXRUJQVlA4IDwAAADQAQCdASoQAAkAA4BaJZQCdADp09R2AAD82QOANRLlan4Ev21s4+NEN9/y6Wjxkvinc4oYznP6M7dAAAA="
     }
    },
    "share": {
@@ -461,8 +352,9 @@
    }
   },
   "name": {
-   "alt": "붓으로 한자를 쓰는 손",
-   "credit": "사진: Niketh Vellanki / Unsplash",
+   "alt": "「문자도 병풍」 — 그림으로 꾸민 글자",
+   "credit": "작자 미상, 「문자도 여덟 폭 병풍」, 조선, 국립민속박물관 — 공개 영역(위키미디어 공용)",
+   "source": "https://commons.wikimedia.org/wiki/File:Painting_of_Characters_on_Eight-panel_Folding_Screen.jpg",
    "base": "covers/name",
    "variants": {
     "4x5": {
@@ -471,14 +363,14 @@
       540,
       720
      ],
-     "lqip": "data:image/webp;base64,UklGRngAAABXRUJQVlA4IGwAAADwAwCdASoQABQAPu1iqU2ppaOiMAgBMB2JZwC7ACIHQ4T2Mh0CbcmAAP7bt8eGEjvmBCSLD8OSo6cDubbKpgC3J7pUuweKsXoyyqjfs4SemGt4XKjMEaOQAb85DbTgKtpWbL7qXkxGuT9EYAA="
+     "lqip": "data:image/webp;base64,UklGRmYAAABXRUJQVlA4IFoAAACwAwCdASoQABQAPu1iqU2ppaOiMAgBMB2JYyzAAyQYIATDd5Y82AD7EWwMu+o29aXOKUTs6gPvTm1PzwC5m4j/fMGtNbYtMwdn6B3pzdZz5xuzsae0pffgAAA="
     },
     "16x9": {
      "widths": [
       720,
       1200
      ],
-     "lqip": "data:image/webp;base64,UklGRk4AAABXRUJQVlA4IEIAAABwAQCdASoQAAkAA4BaJQBOgApQAAD+72Lpe4Pw8JNxlAZEha0HFvdYC2nhKTqtueWPLUNvzuJRIg1Vxwp9IZDO+AA="
+     "lqip": "data:image/webp;base64,UklGRkoAAABXRUJQVlA4ID4AAAAQAgCdASoQAAkAA4BaJYwCdAEfqMWnwgAAAPau86DfjfCkBIimIm7Lz+v7kWYaRzMJJXzlua6LfHRJnYAAAA=="
     }
    },
    "share": {
@@ -552,6 +444,112 @@
    "element": "marks/element-{name}.svg",
    "month": "marks/month-{name}.svg",
    "ornament": "ornament/{name}.svg"
+  }
+ },
+ "classic": {
+  "starmap": {
+   "alt": "천상열차분야지도 — 둥근 하늘에 별자리를 새긴 조선의 천문도",
+   "credit": "작자 미상, 「천상열차분야지도」 인본, 조선 — 공개 영역(위키미디어 공용, 인터넷 아카이브 제공)",
+   "source": "https://commons.wikimedia.org/wiki/File:(Korean_Celestial_and_zodiacal_constellation_chart)._(IA_dr_korean-celestial-and-zodiacal-constellation-chart-11806001).jpg",
+   "license": "공개 영역(PD-Art)",
+   "base": "classic/starmap",
+   "kind": "line",
+   "ratio": "1x1",
+   "widths": [
+    900,
+    1600
+   ],
+   "lqip": "data:image/webp;base64,UklGRjYAAABXRUJQVlA4ICoAAABwAQCdASoQABAAA4BaJaVTAAGIAAD+9PruQ/QjEnUmAK00KaaE83gAAAA="
+  },
+  "mountains": {
+   "alt": "정선 「인왕제색도」 — 비 갠 뒤 안개 낀 인왕산",
+   "credit": "정선, 「인왕제색도」, 조선, 국립중앙박물관 — 공개 영역(위키미디어 공용)",
+   "source": "https://commons.wikimedia.org/wiki/File:Inwangjesaekdo.jpg",
+   "license": "공개 영역(PD-Art)",
+   "base": "classic/mountains",
+   "kind": "line",
+   "ratio": "3x1",
+   "widths": [
+    1200,
+    2000
+   ],
+   "lqip": "data:image/webp;base64,UklGRjwAAABXRUJQVlA4IDAAAACwAQCdASoQAAUAA4BaJaQAAxZQutdgAP70NynLzOGqHD69Ria+7kT0YnJZNXUAAAA="
+  },
+  "irworobong": {
+   "alt": "「일월오봉도」 — 해와 달 아래 다섯 봉우리와 폭포, 소나무",
+   "credit": "작자 미상, 「일월오봉도」, 조선 — 공개 영역(위키미디어 공용)",
+   "source": "https://commons.wikimedia.org/wiki/File:Irworobongdo.jpg",
+   "license": "공개 영역(PD-Art)",
+   "base": "classic/irworobong",
+   "kind": "color",
+   "ratio": "16x9",
+   "widths": [
+    720,
+    1200
+   ],
+   "lqip": "data:image/webp;base64,UklGRkIAAABXRUJQVlA4IDYAAACQAQCdASoQAAkAA4BaJZwAApn5hIAA/uW+eOM8iJtWFpf3aVl9Ie03zTh0wj7VLbijDxQAAAA="
+  },
+  "irworobong-sq": {
+   "alt": "「일월오봉도」의 가운데 — 다섯 봉우리",
+   "credit": "작자 미상, 「일월오봉도」, 조선 — 공개 영역(위키미디어 공용)",
+   "source": "https://commons.wikimedia.org/wiki/File:Irworobongdo.jpg",
+   "license": "공개 영역(PD-Art)",
+   "base": "classic/irworobong-sq",
+   "kind": "color",
+   "ratio": "1x1",
+   "widths": [
+    360,
+    720
+   ],
+   "lqip": "data:image/webp;base64,UklGRkYAAABXRUJQVlA4IDoAAACQAQCdASoQABAAA4BaJZwAApZCgQAA/uxI6+GbI6CmGqCjt22eST0SglPn8FlPXpW9Qyr1PS8HAAAA"
+  },
+  "seodang": {
+   "alt": "김홍도 「서당」 — 훈장 앞에서 훌쩍이는 아이와 웃는 아이들",
+   "credit": "김홍도, 『단원 풍속도첩』 「서당」, 조선, 국립중앙박물관 — 공개 영역(위키미디어 공용)",
+   "source": "https://commons.wikimedia.org/wiki/File:Danwon_Seodang.jpg",
+   "license": "공개 영역(PD-Art)",
+   "base": "classic/seodang",
+   "kind": "color",
+   "ratio": "1x1",
+   "widths": [
+    360,
+    720
+   ],
+   "lqip": "data:image/webp;base64,UklGRkIAAABXRUJQVlA4IDYAAACQAQCdASoQABAAA4BaJYwCdADlOLgAyjQR/06G2S4w80mfumMAjvYYJNzJQtCniifux7XAAAA="
+  },
+  "daejanggan": {
+   "alt": "김홍도 「대장간」 — 쇠를 두드리는 대장장이들",
+   "credit": "김홍도, 『단원 풍속도첩』 「대장간」, 조선, 국립중앙박물관 — 공개 영역(위키미디어 공용)",
+   "source": "https://commons.wikimedia.org/wiki/File:Danwon_Daejanggan.jpg",
+   "license": "공개 영역(PD-Art)",
+   "base": "classic/daejanggan",
+   "kind": "color",
+   "ratio": "1x1",
+   "widths": [
+    360,
+    720
+   ],
+   "lqip": "data:image/webp;base64,UklGRkgAAABXRUJQVlA4IDwAAACwAQCdASoQABAAA4BaJQBOgBS4W/oAANt3EfRrB3i6dhYSUhwdyGxnLJdeinmz8aEwfkxGGjOyd4gAAAA="
+  },
+  "wolha": {
+   "alt": "신윤복 「월하정인」 — 눈썹달 아래 담 모퉁이의 두 사람",
+   "credit": "신윤복, 『혜원 전신첩』 「월하정인」, 조선, 간송미술관 — 공개 영역(위키미디어 공용)",
+   "source": "https://commons.wikimedia.org/wiki/File:Hyewon-Wolha.jeongin-3.jpg",
+   "license": "공개 영역(PD-Art)",
+   "base": "classic/wolha",
+   "kind": "color",
+   "ratio": "1x1",
+   "widths": [
+    360,
+    720
+   ],
+   "lqip": "data:image/webp;base64,UklGRkIAAABXRUJQVlA4IDYAAADwAQCdASoQABAAA4BaJZQCdADvfNn3hAAA/pFjhefOFT3ckMmcsQRKvJWzOMvaMPovfGxAAAA="
+  }
+ },
+ "share": {
+  "home": {
+   "og": "share/home-1200x630.jpg",
+   "alt": "열두달 — 먹빛 바탕에 천문도의 별자리 선과 금빛 궤도"
   }
  }
 }

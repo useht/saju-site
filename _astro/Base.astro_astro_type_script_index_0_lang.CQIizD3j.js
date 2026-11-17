@@ -1,0 +1,1 @@
+import{i as o}from"./events.BDUqdBJ2.js";let e=!1;const n=()=>{e||(e=!0,o())},t=()=>setTimeout(n,1500);document.readyState==="complete"?t():addEventListener("load",t,{once:!0});addEventListener("pagehide",n,{once:!0});

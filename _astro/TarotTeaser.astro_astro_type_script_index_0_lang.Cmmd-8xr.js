@@ -1,0 +1,2 @@
+const __vite__mapDeps=(i,m=__vite__mapDeps,d=(m.f||(m.f=["_astro/tarot-teaser.DqAp5pX0.js","_astro/render.CJt-A-qn.js","_astro/places.5Owvo0jq.js"])))=>i.map(i=>d[i]);
+import{_ as r}from"./preload-helper.DngYA5GS.js";const e=document.getElementById("tarot-teaser"),t=document.getElementById("tarot-draw");e&&t&&t.addEventListener("click",()=>{r(()=>import("./tarot-teaser.DqAp5pX0.js"),__vite__mapDeps([0,1,2])).then(o=>o.drawTarot(e,t))});
